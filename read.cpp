@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc,char * * argv)
 {
-    fstream fin("../203.txt",fstream::in);
+    fstream fin(argv[1],fstream::in);
     string test="";
     vector<string> vec_menu;
     vector<string> vec_text;
