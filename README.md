@@ -5,6 +5,8 @@
 
 使用方式
 
-1.下载kindlegen(https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211).
-2.在kindlegen文件夹下编译运行read。
+1.下载kindlegen(https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211).  
+
+2.在kindlegen文件夹下编译运行read。  
+
   read.exe XXX.txt
