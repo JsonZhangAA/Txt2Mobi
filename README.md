@@ -10,3 +10,6 @@
 2.在kindlegen文件夹下编译运行read。  
 
   read.exe XXX.txt
+
+
+*notes*: 目前识别目录主要是两种：（1）第XX章，（2）12.XX
